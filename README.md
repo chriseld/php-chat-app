@@ -1,7 +1,7 @@
 # php-chat-app
 A simple chatroom application written with jQuery and PHP
 
-![Screenshot of the application](https://github.com/chriseld/php-chat-app/blob/master/img/screenshot.png)
+![Screenshot of the application](https://github.com/chriseld/php-chat-app/blob/main/img/screenshot.png)
 
 ## About
 This aplication allows users to post in a simple chatroom, with the logs stored in a .txt file.
