@@ -1,0 +1,58 @@
+body, html {
+    background: #3B668C;
+    background-image: url(./img/bg.png);
+    background-repeat: repeat;
+}
+
+h2 {
+    color: rgb(223, 231, 240);
+    text-align: center;
+}
+
+#page-wrap {
+    width: 600px;
+    margin: 25px auto;
+    position: relative;
+}
+
+#chat-wrap {
+    border: 1px solid white;
+    border-radius: 8px;
+    margin: 0 0 15px 0;
+}
+
+#chat-area {
+    height: 300px;
+    overflow: auto;
+    border: 1px solid #666;
+    border-radius: 8px;
+    padding: 20px;
+    background: white; 
+}
+
+#chat-area span {
+    border-radius: 8px;
+    color: white; 
+    background: #333;
+    padding: 4px 8px;
+    margin: 0 5px 0 0;
+}
+
+#chat-area p {
+    padding: 8px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+#send-message-area {
+    display: flex;
+    flex-direction: row;
+}
+
+#send-message-area p {
+    color: white;
+    font-size: 14px;
+}
+
+textarea {
+    resize: none;
+}
