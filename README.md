@@ -9,4 +9,4 @@ This aplication allows users to post in a simple chatroom, with the logs stored 
 ## Deployment
 
 The page repository can be found at [the GitHub page](https://github.com/chriseld/php-chat-app).
-The deployed application can be found at [my website](https://chriseld.com/php-chat-app/index.php).
+The deployed application can be found at [my website](https://chriseld.com/php-chat-app/index.html).
